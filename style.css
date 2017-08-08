@@ -10,6 +10,13 @@ header {
 	background: #ccc;
 }
 
+nav {
+	position: top;
+	padding: 20px;
+	clear: both;
+	background: #ccc;
+}
+
 p,h1, header,footer{
 	font-family: 'Arial', 'Helvetica Neue', 'Helvetica', sans-serif;
 	font-size: 18px;
