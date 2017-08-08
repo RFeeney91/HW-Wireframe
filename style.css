@@ -4,6 +4,7 @@
 }
 
 header {
+	position: top;
 	padding: 20px;
 	clear: both;
 	background: #ccc;
