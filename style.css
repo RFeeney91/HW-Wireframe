@@ -1,5 +1,6 @@
 * {
-  box-sizing: border-box;
+    box-sizing: border-box;
+    text-align: center;
 }
 
 p,h1, header,footer{
@@ -14,4 +15,10 @@ p,h1, header,footer{
   margin-bottom: 20px;
   text-align: center;
   background: #eee;
+}
+
+footer {
+	padding: 20px;
+    	clear: both;
+   	background: #ccc; 
 }
