@@ -11,13 +11,14 @@ header {
 }
 
 h1 {
+	position: relative;
 	padding: 20px;
 	clear: both;
 	background: #ccc;
 }
 
 nav {
-	position: top;
+	position: fixed;
 	padding: 20px;
 	clear: both;
 	background: #ccc;
