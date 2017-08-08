@@ -10,6 +10,12 @@ header {
 	background: #ccc;
 }
 
+h1 {
+	padding: 20px;
+	clear: both;
+	background: #ccc;
+}
+
 nav {
 	position: top;
 	padding: 20px;
