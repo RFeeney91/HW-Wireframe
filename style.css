@@ -34,6 +34,13 @@ p {
 	background-color: #ebebeb;	
 }
 
+h2 {
+	color: #fff;
+	padding: 20px;
+	margin: 20px;
+	clear: both;
+	background-color: #ebebeb;
+
 .clearfix {
 	overflow: auto;
 }
