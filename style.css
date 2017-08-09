@@ -9,6 +9,10 @@ body{
      background: #777;
 }
 
+header, h1, footer{
+	width: 960px;
+}
+
 header {
 	position: top;
 	padding: 20px;
@@ -48,7 +52,7 @@ h2 {
 
 #left {
   float: left;
-  width: auto;
+  width: 495px;
   background-color: #ebebeb;
 }
 
