@@ -51,6 +51,7 @@ h2 {
 
 #left {
   float: left;
+  padding: 20px;
   width: 495px;
   background-color: #ebebeb;
 }
