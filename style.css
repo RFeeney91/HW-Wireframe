@@ -44,11 +44,16 @@ p {
 
 article {
 	float: left;
-	padding: 20px;
+	padding: 40px;
 	margin: 20px;
-	height: 960px;
-	width: 495px;
 	background-color: #777;
+}
+
+aside{
+     float: right;
+     padding: 40px;
+     margin: 20px;
+     background-color: #ebebeb;
 }
 
 footer {
