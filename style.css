@@ -38,12 +38,6 @@ p {
   background-color: #ebebeb;
 }
 
-#relative {
-  position: relative;
-  padding: 20px;
-  margin-bottom: 20px;
-}
-
 article {
 	float: left;
 	padding: 20px;
