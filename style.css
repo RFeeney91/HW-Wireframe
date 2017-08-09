@@ -17,6 +17,14 @@ h1 {
 	background: #ccc;
 }
 
+#left {
+  float: left;
+  width: 33.3%;
+  color: #fff;
+  background: #666;
+}
+
+
 nav {
 	position: fixed;
 	padding: 20px;
