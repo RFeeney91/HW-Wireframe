@@ -1,7 +1,7 @@
 * {
     box-sizing: border-box;
     text-align: center;
-    background: #eee;
+    background: #777;
     font-family: 'Arial', 'Helvetica Neue', 'Helvetica', sans-serif;
     font-size: 18px;
 	
@@ -12,7 +12,7 @@ header {
 	padding: 20px;
 	margin: 20px;
 	clear: both;
-	background: #ccc;
+	background: #777;
 }
 
 h1 {
@@ -20,21 +20,21 @@ h1 {
 	padding: 20px;
 	margin: 20px;
 	clear: both;
-	background: #ccc;
+	background: #777;
 }
 
 p {
 	padding: 20px;
 	margin: 20px;
 	clear: both;
-	background: #ccc;	
+	background: #777;	
 }
 
 #left {
   float: left;
   width: 33.3%;
   color: #fff;
-  background: #666;
+  background: #777;
 }
 
 
@@ -43,7 +43,7 @@ nav {
 	padding: 20px;
 	margin: 20px;
 	clear: both;
-	background: #ccc;
+	background: #777;
 }
 
 p,h1, header,footer{
