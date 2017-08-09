@@ -38,10 +38,16 @@ p {
   background-color: #ebebeb;
 }
 
+.clearfix {
+	overflow: auto;
+}
+
 article {
 	float: left;
 	padding: 20px;
 	margin: 20px;
+	height: 960px;
+	width: 495px;
 	background-color: #777;
 }
 
