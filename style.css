@@ -10,7 +10,7 @@
 header {
 	position: top;
 	padding: 20px;
-	margin: 0 auto;
+	margin: 20px;
 	clear: both;
 	background: #ccc;
 }
@@ -18,14 +18,14 @@ header {
 h1 {
 	position: relative;
 	padding: 20px;
-	margin: 0 auto;
+	margin: 20px;
 	clear: both;
 	background: #ccc;
 }
 
 p {
 	padding: 20px;
-	margin: 0 auto;
+	margin: 20px;
 	clear: both;
 	background: #ccc;	
 }
@@ -41,7 +41,7 @@ p {
 nav {
 	position: fixed;
 	padding: 20px;
-	margin: 0 auto;
+	margin: 20px;
 	clear: both;
 	background: #ccc;
 }
@@ -63,6 +63,6 @@ p,h1, header,footer{
 footer {
 	padding: 20px;
     	clear: both;
-	margin: 0 auto;
+	margin: 20px;
    	background: #eee; 
 }
