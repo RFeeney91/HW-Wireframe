@@ -42,6 +42,7 @@ nav {
 p,h1, header,footer{
 	font-family: 'Arial', 'Helvetica Neue', 'Helvetica', sans-serif;
 	font-size: 18px;
+	background: #eee;
 }
 
 #relative {
@@ -57,5 +58,5 @@ footer {
 	padding: 20px;
     	clear: both;
 	margin: 0 auto;
-   	background: #ccc; 
+   	background: #eee; 
 }
