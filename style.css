@@ -53,11 +53,8 @@ p,h1, header,footer{
 
 #relative {
   position: relative;
-  height: 200px;
   padding: 20px;
   margin-bottom: 20px;
-  text-align: center;
-  background: #777;
 }
 
 footer {
