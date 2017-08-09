@@ -67,6 +67,7 @@ aside{
 }
 
 footer {
+	position: bottom;
 	padding: 20px;
     	clear: both;
 	margin: 20px;
