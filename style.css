@@ -59,6 +59,12 @@ article {
 	background-color: #777;
 }
 
+#right {
+	float: right;
+	width: auto;
+	background-color: #ebebeb
+}
+
 aside{
      float: right;
      padding: 40px;
