@@ -57,12 +57,12 @@ p,h1, header,footer{
   padding: 20px;
   margin-bottom: 20px;
   text-align: center;
-  background: #eee;
+  background: #777;
 }
 
 footer {
 	padding: 20px;
     	clear: both;
 	margin: 20px;
-   	background: #eee; 
+   	background: #777; 
 }
