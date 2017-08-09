@@ -45,6 +45,10 @@ p {
   margin-bottom: 20px;
 }
 
+article {
+	float: right
+}
+
 footer {
 	padding: 20px;
     	clear: both;
