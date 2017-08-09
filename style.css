@@ -47,6 +47,9 @@ p {
 
 article {
 	float: right
+	padding: 20px;
+	margin: 20px;
+	background-color: #ebebeb;
 }
 
 footer {
