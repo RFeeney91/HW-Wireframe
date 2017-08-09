@@ -32,14 +32,14 @@ p {
 	background-color: #ebebeb;	
 }
 
+.clearfix {
+	overflow: auto;
+}
+
 #left {
   float: left;
   width: 33.3%;
   background-color: #ebebeb;
-}
-
-.clearfix {
-	overflow: auto;
 }
 
 article {
