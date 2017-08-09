@@ -69,7 +69,7 @@ aside{
      display: block;
      float: right;
      width: 495px;
-     height: 300px;
+     height: auto;
      padding: 40px;
      margin: 20px;
      background-color: #ebebeb;
