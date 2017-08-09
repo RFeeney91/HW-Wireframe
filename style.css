@@ -6,6 +6,7 @@
 }
 
 body{
+     background: #777
 }
 
 header {
@@ -13,7 +14,7 @@ header {
 	padding: 20px;
 	margin: 20px;
 	clear: both;
-	background: #ebebeb;
+	background-color: #ebebeb;
 }
 
 h1 {
@@ -21,21 +22,21 @@ h1 {
 	padding: 20px;
 	margin: 20px;
 	clear: both;
-	background: #ebebeb;
+	background-color: #ebebeb;
 }
 
 p {
 	padding: 20px;
 	margin: 20px;
 	clear: both;
-	background: #ebebeb;	
+	background-color: #ebebeb;	
 }
 
 #left {
   float: left;
   width: 33.3%;
   color: #fff;
-  background: #ebebeb;
+  background-color: #ebebeb;
 }
 
 #relative {
@@ -48,5 +49,5 @@ footer {
 	padding: 20px;
     	clear: both;
 	margin: 20px;
-   	background: #ebebeb; 
+   	background-color: #ebebeb; 
 }
