@@ -22,7 +22,10 @@ h1 {
 }
 
 p {
-	
+	padding: 20px;
+	margin: 0 auto;
+	clear: both;
+	background: #ccc;	
 }
 
 #left {
