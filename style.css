@@ -59,14 +59,10 @@ article {
 	background-color: #777;
 }
 
-#right {
-	float: right;
-	width: auto;
-	background-color: #ebebeb
-}
 
 aside{
      float: right;
+     width: 495px;
      padding: 40px;
      margin: 20px;
      background-color: #ebebeb;
